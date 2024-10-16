@@ -1,0 +1,20 @@
+// Create a web app
+// the web app should b a single page app and should use plain html, css, and js
+// the web app should be more or less like a birthday card for my Wife 
+// It should contain divs that look like sections of a birthday card
+// The sections are:
+// 1. Cover
+// 2. Inside
+// 3. Greeting
+// 4. Closing
+// 5. Signature
+// It should have placeholders for images, text, and other elements
+// The cover should have a placeholder for a large image
+// The inside should have a placeholder for a smaller image
+// The greeting should have a placeholder for a message
+// The closing should have a placeholder for a message
+// The signature should have a placeholder for a name
+// The signature should have a placeholder for a date
+// The signature should have a placeholder for a signature image
+
+
