@@ -200,7 +200,7 @@ showImage(currentImageIndex);  // Show the first image initially
 
 // Countdown timer functionality
 function updateCountdown() {
-    const birthday = new Date("2024-10-17T00:00:00").getTime(); // Set the birthday date
+    const birthday = new Date("2024-10-17T09:00:00").getTime(); // Set the birthday date
     const now = new Date().getTime();
     const distance = birthday - now;
 
